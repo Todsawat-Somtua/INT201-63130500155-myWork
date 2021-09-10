@@ -4,7 +4,6 @@
 let player1 = {name: "Player 1", score: 0, diceValue: []};
 let player2 = {name: "Player 2", score: 0, diceValue: []};
 let player = {statsLog: []};
-
 //ใส่จำนวนรอบที่ต้องการเล่น
 play(10);
 //ใช้ For-loop เพื่อจะให้เกิดการทอยลูกเต๋าในทุกๆรอบ 
